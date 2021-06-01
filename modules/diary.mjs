@@ -90,6 +90,6 @@ export function diary(user) {
   })
 
   logOutBtn.addEventListener('click', () => {
-    window.location.href = 'index.html';
+    window.location.href = 'https://ssmeds.github.io/diary-app-frontend/';
   })
 }

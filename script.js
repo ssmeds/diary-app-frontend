@@ -15,6 +15,5 @@ formBtn.addEventListener("click", (e) => {
 
 newRegBtn.addEventListener("click", (e) => {
     e.preventDefault();
-    console.log("Varför kan jag inte registrera ny");
     reg();
 })
